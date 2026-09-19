@@ -70,24 +70,6 @@ My main goals are:
 
 ---
 
-## 📂 Projects
-
-Most of my repositories are focused on learning through practice and building complete projects.
-
-**Feel free to explore my repositories below.**
-
-> More projects are coming soon.
-
----
-
-## 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Astvax\&show_icons=true\&hide_border=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Astvax\&layout=compact\&hide_border=true\&theme=transparent)
-
----
-
 ## 📫 Contact
 
 **Telegram:** [@Astvax](https://t.me/Astvax)
