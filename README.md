@@ -44,6 +44,7 @@ I enjoy building software from scratch, working with graphics and game developme
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **🖥️ Environment**
+
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/CachyOS-5C2D91?style=flat-square&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
