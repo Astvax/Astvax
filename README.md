@@ -6,7 +6,7 @@ I'm **Albert (Astvax)**, a junior developer focused primarily on **C and C++**.
 
 I enjoy building software from scratch, working with graphics and game development, and understanding how things work under the hood. I'm constantly improving my programming skills and exploring new technologies.
 
---- 
+---  
 
 ## 👨‍💻 About Me
 
