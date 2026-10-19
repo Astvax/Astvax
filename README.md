@@ -9,7 +9,7 @@ I enjoy building software from scratch, working with graphics and game developme
 ---  
  
 ## 👨‍💻 About Me
-
+ 
 * 💻 Primary languages: **C / C++** 
 * 🐍 Also working with **Python**  
 * 🍎 Exploring **Swift**
