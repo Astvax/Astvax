@@ -14,7 +14,7 @@ I enjoy building software from scratch, working with graphics and game developme
 * 🐍 Also working with **Python**  
 * 🍎 Exploring **Swift**
 * 🌐 Familiar with **HTML & CSS**
-* 🎮 Interested in **game development & 2D graphics**
+* 🎮 Interested in **game development & 2D graphics**  
 * ⚡ Interested in performance, algorithms, and low-level programming
 * 🚀 Currently building personal projects and expanding my C/C++ experience
 
